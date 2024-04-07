@@ -1,0 +1,18 @@
+    static void initwynik(){
+        //sprawdzenie długosci
+        ArrayList<String> litery = new ArrayList<>(26);
+        for (String el: szukaneImiona){
+            if (!litery.contains(String.valueOf(el.charAt(0)))){
+                litery.add(String.valueOf(el.charAt(0)));
+            }
+        }
+        //inicjalizacja tablicy
+        for (int i=0;i< litery.size();i++){
+            wynik.add(new ArrayList<ArrayList<String>>());
+            for(int j=0;j<szukaneImiona.size();j++){
+                ArrayList<String>pomoc=new ArrayList<>();
+                wynik.get(i).add(pomoc);
+            }
+        }
+        wynik.add
+    }

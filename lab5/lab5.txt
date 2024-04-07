@@ -1,0 +1,14 @@
+działamy na lliczbach naturalnych
+znamy A i B
+W C możemy dać nawet same zmienne 
+i zmienne są w wyniku
+w zadaniu 2 
+wpisujemy stringi 
+usuwanie jest case sensitive !!!!
+
+
+
+Pierwszych 2 laboratoriów już nie możemy powtarzać ale 3 i 4 już tak.
+zadanie 2:
+zaimplementować mause event get click count+ma być widać cale równanie dodać 2 stringa?
+zwiekszyc czcionkę w zadaniu 1
